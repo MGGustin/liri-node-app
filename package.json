@@ -1,0 +1,25 @@
+{
+  "name": "twitter",
+  "version": "1.7.1",
+  "description": "shows recent tweets",
+  "main": "liri.js",
+  "scripts": {
+    "test": "my-tweets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGGustin/liri-node-app.git"
+  },
+  "keywords": [
+    "twitter",
+    "npm"
+  ],
+  "author": "twitter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MGGustin/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/MGGustin/liri-node-app#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
